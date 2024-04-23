@@ -5,8 +5,30 @@
 
 Fraud detection in electricity and gas consumption powered by machine learning
 ## Results summary
-
+### Model summary
 ![model summary](images/model_summary.png)
+
+### The best model: performance
+The best model is an XGBoost which consideres all engineered features 
+
+|ROC curve| Confusion matrix|
+|---|---|
+|![alt text](images/xgboost_roc.png)|![alt text](images/xgboost_confmatrix.png)|
+
+```
+Recall: 0.34 Precision: 0.59 ROC AUC: 0.9 F-beta: 0.58
+
+                Classification Report:
+--------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.96      0.99      0.97     95945
+         1.0       0.59      0.34      0.43      5674
+
+    accuracy                           0.95    101619
+   macro avg       0.77      0.66      0.70    101619
+weighted avg       0.94      0.95      0.94    101619
+```
 ## Project Workflow
 
 ### Selection of performance metric based on the ML problem
