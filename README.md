@@ -1,9 +1,7 @@
 # Detection of fraude Electricity and Gas consumption for Société tunisienne de l'électricité et du gaz (STEG) 
 
+![logo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.infopulse.com%2Ffiles%2Fimages%2Ffraud-detection-article-slogan-bubbles.png&f=1&nofb=1&ipt=cf307ae24cb721ece1d85dfc811374835ff56a8aaabbec8c0c3d70646db69d62&ipo=images) Fraud detection in electricity and gas consumption powered by machine learning
 
-![image.png](attachment:image.png)[Le compteur officielle du STEG](https://steg.com.tn/fr/institutionnel/compteur.html?tknfv=k1923bbc7-193c-471e-864d-0efac90059z995z)
-
-Fraud detection in electricity and gas consumption powered by machine learning
 ## Results summary
 ### Model summary
 ![model summary](images/model_summary.png)
