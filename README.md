@@ -29,11 +29,11 @@ weighted avg       0.94      0.95      0.94    101619
 ```
 ## Project Workflow
 
-### Selection of performance metric based on the ML problem
+### Selected metric
 
 - F1 is the metric of choice as a balance between precision and recall with the weight on recall. The model should detect as many frauds as possible by keeping the number of false alerts low.
 
-### Hypotheses generation during Exploratory Data Analysis (link to the presentation here?)
+### Hypotheses generated based on data exploration
 
 1) Households in regions where fraud occurs more frequently than average are more likely to commit fraud themselves (check from the slide of Katja and correct)
 
