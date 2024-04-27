@@ -3,6 +3,8 @@
 ![logo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.infopulse.com%2Ffiles%2Fimages%2Ffraud-detection-article-slogan-bubbles.png&f=1&nofb=1&ipt=cf307ae24cb721ece1d85dfc811374835ff56a8aaabbec8c0c3d70646db69d62&ipo=images) Fraud detection in electricity and gas consumption powered by machine learning
 
 ## Results summary
+
+[Data insights](notebooks/eda_summary.md)
 ### Model summary
 ![model summary](images/model_summary.png)
 
