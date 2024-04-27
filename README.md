@@ -4,7 +4,8 @@
 
 ## Results summary
 
-[Data insights](notebooks/eda_summary.md)
+* [Data insights](notebooks/eda_summary.ipynb)
+  
 ### Model summary
 ![model summary](images/model_summary.png)
 
